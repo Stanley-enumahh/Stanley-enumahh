@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Stanley-enumahh
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on paid gigs oe open source 
-- 📫 How to reach me https://stanlee-my-portfolio.vercel.app/
-- ⚡ Fun fact: I don't snore 🌚
+- Web developer
+- React | | Next js
+- 💞️ I’m looking to collaborate with like minds
+  
+
 
 <!---
 Stanley-enumahh/Stanley-enumahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

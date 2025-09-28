@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Stanley-enumahh
-- Web developer
+
+- Full stack Web developer
 - React | | Next js
 - 💞️ I’m looking to collaborate with like minds
   
